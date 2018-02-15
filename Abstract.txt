@@ -1,0 +1,1 @@
+This is a new Radial Basis Function Neural NErwork for Pattern Classification
